@@ -2,7 +2,9 @@
 
 ## Student Information
 Name      : Gede Bagus Teguh Saka Phalguna
+
 Student ID: 5026251190
+
 Class     : E
 
 ---
@@ -96,7 +98,7 @@ private static final String PASSWORD = "your_password";
 ---
 
 ## Screenshots
-_(Add screenshots of Login Window, Game Window, Statistics, Top 5 Scorers here)_
+
 
 ---
 
