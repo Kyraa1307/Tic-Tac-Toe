@@ -96,27 +96,25 @@ private static final String PASSWORD = "your_password";
 - [x] `TopScorersFrame` — display Top 5 using JTable
 
 ---
-git add screenshots/
-git commit -m "Add screenshots"
-git push
+
 
 ## Screenshots
 ### Login Window
-![Login Window](screenshots/login.png)
-![Login Window](screenshots/login-notif.png)
+![Login Window](student-swing-game-project/screenshots/login.png)
+![Login Window](student-swing-game-project/screenshots/login-notif.png)
 
 ### Main Menu
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](student-swing-game-project/screenshots/main-menu.png)
 
 ### Game Window
-![Game Window](screenshots/in-game.png)
-![Game Window](screenshots/result-notif.png)
+![Game Window](student-swing-game-project/screenshots/in-game.png)
+![Game Window](student-swing-game-project/screenshots/result-notif.png)
 
 ### Statistic
-![Statistic](screenshots/statistic.png)
+![Statistic](student-swing-game-project/screenshots/statistic.png)
 
 ### Top 5 Scorers
-![Top 5 Scorers](screenshots/top-5-scorer.png)
+![Top 5 Scorers](student-swing-game-project/screenshots/top-5-scorer.png)
 
 ---
 
