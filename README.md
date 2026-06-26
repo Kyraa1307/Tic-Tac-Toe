@@ -96,6 +96,9 @@ private static final String PASSWORD = "your_password";
 - [x] `TopScorersFrame` — display Top 5 using JTable
 
 ---
+git add screenshots/
+git commit -m "Add screenshots"
+git push
 
 ## Screenshots
 ### Login Window
