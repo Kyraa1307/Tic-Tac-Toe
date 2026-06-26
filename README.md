@@ -98,12 +98,27 @@ private static final String PASSWORD = "your_password";
 ---
 
 ## Screenshots
+### Login Window
+![Login Window](screenshots/login.png)
+![Login Window](screenshots/login-notif.png)
 
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### Game Window
+![Game Window](screenshots/in-game.png)
+![Game Window](screenshots/result-notif.png)
+
+### Statistic
+![Statistic](screenshots/statistic.png)
+
+### Top 5 Scorers
+![Top 5 Scorers](screenshots/top-5-scorer.png)
 
 ---
 
 ## GitHub Repository Link
-[YOUR GITHUB LINK HERE]
+https://github.com/Kyraa1307/Tic-Tac-Toe/
 
 ## YouTube Demonstration Video
-[YOUR YOUTUBE LINK HERE]
+https://youtu.be/xR2NUGaRnzs
